@@ -1,7 +1,2 @@
-# mail.py
-from email.mime.text import Mi
-import smtplib
-from email.header import Header
-from email.utils import parseaddr,formataddr
-from email.mime.base import MIMEBase
-from email.mime.multipart import MIMEMultipart
+# This is a configuration file for Zabbix agent daemon (Unix)
+# To get more information about Zabbix, visit http://www.zabbix.com
